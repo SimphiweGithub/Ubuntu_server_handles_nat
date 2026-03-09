@@ -1,4 +1,4 @@
-# Hybrid Enterprise Network Lab & Bare-Metal Linux Gateway
+# Hybrid  Network Lab &  Linux Gateway
 
 ## Project Overview
 This project demonstrates the design and deployment of a custom hybrid network lab. To bypass the limitations of consumer-grade hardware, a Ubuntu server machine was used to act as a primary NAT gateway and edge router. This setup bridges a physically isolated local area network (LAN) to a wide area network (WAN) while allowing for deep packet inspection and custom routing rules.
